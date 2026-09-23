@@ -13,7 +13,7 @@
     <source src="backtofriends.mp3" type="audio/mpeg">
 </audio>
 
-<button class="mscBtnb" onclick="playMusic();openLyrics();">pindutin mo!</button>
+<button class="mscBtnb" onclick="playMusic();openLyrics();">haha mo!</button>
 
 <div id="lyrics" class="lyrics">
     <div class="lyrics-content">
