@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>
+            Back to Friends
+        </title>
         <link rel="stylesheet" href="style.css">
     </head>
 <body>
